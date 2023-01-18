@@ -1,5 +1,5 @@
-I2P Easy InstallFor Mac the Movie
-=================================
+I2P Easy Install For Mac the Movie
+==================================
 
 3 minute and 51 second long video about how to browse I2P sites on a Mac.
 
