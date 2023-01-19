@@ -24,6 +24,8 @@ The I2P Easy-Install bundle is still beta software.
     <source src="mac.webm" type="video/webm">
 </video>
 
+##### [mkv video](https://eyedeekay.github.io/Easy-Install-for-Mac-Setup-Video/mac.mkv)
+
 ### [Get started with I2P by downloading the I2P easy-install bundle](https://geti2p.net/en/download/mac)
 
 #### [Contribute at i2pgit.org](https://i2pgit.org/i2p-hackers/i2p-jpackage-mac)
